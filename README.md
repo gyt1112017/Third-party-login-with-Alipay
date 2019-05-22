@@ -9,4 +9,4 @@ This PHP file is allowed that users login third party though their Aplipay accou
 <p>6. The key generation needs to download the generation tool provided by alipay. choose 2048 type</p>
 <p>7. Download Alipay SDK.</p>
 
-<h3> your need to change your</h3>
+<h3> your need to change your appid, private key and public key.</h3>
