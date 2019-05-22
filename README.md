@@ -5,8 +5,8 @@ This PHP file is allowed that users login third party though their Aplipay accou
 <p>2. Enter the developer center, create the application, and apply for the application to go online. This may take 1-2 working days.</p>
 <p>3. After your application goes online, you gonna get your appid.</p>
 <p>4. Sign up - get member information function in Alipay developer center.</p>
-<p>5. Set authorization callback path and interface signature (select RSA2(SHA256) key)</p>
-<p>6. The key generation needs to download the generation tool provided by alipay. choose 2048 type</p>
+<p>5. Set authorization callback path and interface signature (select RSA2(SHA256) key.)</p>
+<p>6. The key generation needs to download the generation tool provided by alipay. choose 2048 type.</p>
 <p>7. Download Alipay SDK.</p>
 
-<h3> your need to change your appid, private key and public key.</h3>
+<h3 style="color:red;"> your need to change your appid, private key and public key.</h3>
